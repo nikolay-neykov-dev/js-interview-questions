@@ -1,0 +1,16 @@
+- What is JavaScript?
+    - JavaScript is programming language primarly used for web development
+    - JavaScript is commonly used to make web pages interactive and dynamic
+    - JavaScript is used to add functionalities to web pages such as form validation, animations, DOM manipulation, event handling and other
+    - JavaScript runs in the browser's built in engine (V8 engine for Google Chrome  or SpiderMonkey engine for Mozilla Firefox)
+    - JavaScript can be used for server-side applications (with Node.js)
+    - JavaScript can be used for mobile applications (with React Native)
+    - JavaScript can be used for desktop applications (With Electron)
+
+- What is Node.js
+    - Node.js is open-source, server-side runtime enviroment built on V8 engine of Google Chrome
+    - Node.js allows to run JavaScript code on the server-side (without web browser)
+    - Node.js is designed to handle asynchronous I/O (input/output) operation, making it sutiable for real-time applications that require high concurrency
+    - Node.js has event-driven architecture that allows handling multiple concurrent connections efficiently
+    - Node.js has "npm" (Node Package Manager), that is providing access to open-source libraries and frameworks
+    - Node.js is cross-platform enviroment (it is compatible with different operating systems Windows, macOS, Linux)
